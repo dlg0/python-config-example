@@ -1,0 +1,1 @@
+This is an example of how to setup a config type file in your existing setup (I think). While of course there are much nicer ways to do it, as we discussed, both these aproaches should work with your existing workflow. I have included examples for having the config file being either a pure python (`.py`) file, and a jupyter notebook (`.ipynb`) file. 
